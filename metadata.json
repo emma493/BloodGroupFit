@@ -1,0 +1,6 @@
+{
+  "name": "BloodGroupFit",
+  "description": "A personalized wellness platform providing custom diet plans, exercise routines, and wellness tips tailored to your specific blood group, featuring local storage accounts, interactive workouts with animations, and an analytics tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
